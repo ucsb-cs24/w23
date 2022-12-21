@@ -5,28 +5,28 @@ plugins:
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-cs24.github.io 
-baseurl: "/s22"  
+baseurl: "/w23"  
 instructor: "Diba Mirza"
-name: "CS24 Spring 2022"
+name: "CS24 Winter 2023"
 course: "CS24"
 course_title: "Problem Solving with Computers II"
-title: "UCSB CS24 S22"
-github_url: https://github.com/ucsb-cs24/s22
-qtr: "S22"
-quarter: "Spring 2022"
-lecture_times: "MW 2:00pm - 3:15pm"
-lecture_location: "BUCHN 1920"
-lab_times: "Thursdays: 9a, 10a, 11a, 12p"
-tas: "Lucas Nguyen,  Ganesh Sankaran, Roman Aguilera"
-ulas: "Tina Shi and Zack Glazewski"
+title: "UCSB CS24 W23"
+github_url: https://github.com/ucsb-cs24/w23
+qtr: "W23"
+quarter: "Winter 2023"
+lecture_times: "MW 12:30pm - 1:45pm"
+lecture_location: "NH 1006"
+lab_times: "Thursdays: 9a, 10a, 11a, 12p, 1p"
+tas: ""
+ulas: "Rachel Jiang and Zack Glazewski"
 class_org:
-   name: ucsb-cs24-s22 
-   url: https://github.com/ucsb-cs24-s22
-   githublinker: CS24 S22
+   name: ucsb-cs24-w23
+   url: https://github.com/ucsb-cs24-w23
+   githublinker: CS24 W23
    
-lect_repo: https://github.com/ucsb-cs24-s22/cs24-s22-lectures
+lect_repo: https://github.com/ucsb-cs24-w23/cs24-w23-lectures
 start_week: 1
-start_date: 2022-03-27
+start_date: 2023-01-08
 num_weeks: 10
 extra_exam_week: true
 
@@ -34,20 +34,23 @@ instructor_url: https://ucsb-cs24.github.io/instructor
 
 cal_dates: >
   [
-  {"label":"First day of classes", "date":"2022-03-28" },
-  {"label":"ZyBook Ch 1 activities due at 11:59p", "date":"2022-04-08" },
-  {"label":"ZyBook Ch 2 activities due at 11:59p", "date":"2022-04-15" },
-  {"label":"ZyBook Ch 3 activities due at 11:59p", "date":"2022-04-22" },
-  {"label":"ZyBook Ch 4 activities due at 11:59p", "date":"2022-04-29" },
-  {"label":"ZyBook Ch 5 activities due at 11:59p", "date":"2022-05-13" },
-  {"label":"ZyBook Ch 6 activities due at 11:59p", "date":"2022-05-20" },
-  {"label":"ZyBook Ch 7 activities due at 11:59p", "date":"2022-05-27" },
-  {"label":"ZyBook Ch 8 activities due at 11:59p", "date":"2022-06-03" },
-  {"label":"Drop deadline (no W grade)","date":"2022-04-22" },
-  {"label":"Univ Holiday - No lecture", "date":"2022-05-30" },
-  {"label":"S22 Instruction Ends", "date":"2022-06-03" },  
-  {"label":"Final Exam: 4PM - 7PM", "date":"2022-06-06" },
-  {"label":"S22 Quarter Ends", "date":"2022-06-10" }          
+  {"label":"First day of classes", "date":"2023-01-09" },
+  {"label":"ZyBook Ch 11 & 12 activities due at 11:59p", "date":"2023-01-13" },
+  {"label":"ZyBook Ch 13 & 14 activities due at 11:59p", "date":"2023-01-20" },
+  {"label":"ZyBook Ch 15, 16, & 17  activities due at 11:59p", "date":"2023-01-27" },
+  {"label":"ZyBook Ch 18, 19, & 20  activities due at 11:59p", "date":"2023-02-03" },
+  {"label":"ZyBook Ch 21 & 22  activities due at 11:59p", "date":"2023-02-10" },
+  {"label":"ZyBook Ch 23  activities due at 11:59p", "date":"2023-02-17" },
+  {"label":"ZyBook Ch 24 activities due at 11:59p", "date":"2023-02-24" },
+  {"label":"ZyBook Ch 25 & 26 activities due at 11:59p", "date":"2023-03-03" },
+  {"label":"ZyBook Ch 27  activities due at 11:59p", "date":"2023-03-10" },
+  {"label":"ZyBook Ch 28  activities due at 11:59p", "date":"2023-03-17" },
+  {"label":"Drop deadline (no W grade)","date":"2023-02-23" },
+  {"label":"Univ Holiday (MLK Jr. Day) - No lecture", "date":"2023-01-16" },
+  {"label":"Univ Holiday (Presidents' Day) - No lecture", "date":"2023-02-20" },
+  {"label":"W23 Instruction Ends", "date":"2023-03-17" },  
+  {"label":"Final Exam: noon - 3PM", "date":"2023-03-21" },
+  {"label":"W23 Quarter Ends", "date":"2023-03-24" }          
   ]
 
 kramdown:

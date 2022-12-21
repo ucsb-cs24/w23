@@ -24,7 +24,12 @@ Please check Gauchospace for staff office hours and Zoom meeting links for lectu
 
 ## Required Resources
 
-* Required textbook: E-textbook (Zybook), title: CMPSC 24: Problem Solving With Computers - 2. Instructions to subscribe are on Gauchospace
+* Required textbook: E-textbook (Zybook), title: CMPSC 24: Problem Solving With Computers - 2. Instructions to subscribe:
+1. Sign in or create an account at learn.zybooks.com
+2. Enter zyBook code: UCSBCMPSC24MirzaWinter2023
+3. Subscribe
+
+A subscription is $77. Students may begin subscribing on Dec 24, 2022 and the cutoff to subscribe is Mar 18, 2023. Subscriptions will last until Apr 08, 2023. Students who purchased a subscription for the CS16 zybook should automatically receive a 50% discount. Students who had extended their subscription for the CS16 book from F22 should contact support@zybooks.com to receive a refund and then subscribe to the CS24 book (again a 50% discount will apply).
 
 * Reference textbooks
   * Michael Main and Walter Savitch. Data Structures and Other Objects Using C++ (4th edition), Addison-Wesley, 2011.
@@ -68,17 +73,17 @@ Note: If purchasing the book imposes a financial hardship that you cannot bear, 
 
 * Programming assignments: 20%. Check the instructions on top of each assignment for collaboration policy. Some assignments may be completed in pairs. 
 
-* Midterm: 15% of overall score. 
+* Midterm: 15% 
 
-* Final Exam: 35% of overall score. 
+* Final Exam: 35% 
 
 
 ## Timeliness on assignments
 
 Each lab, programming assignment, zybook reading asssignment has two deadlines: (1) The "on-time" deadline which is the one published on the course calendar. Submitting by this deadline gets you a timeliness bonus of 1% (of the assignment score) 
-(2) The "late" deadline which is 4 days after the published deadline. You will not be penalized for submitting before this deadline but doing so would mean that you don't get the timeliness bonus.
+(2) The "late" deadline which is 3 days after the published deadline. You will not be penalized for submitting before this deadline but doing so would mean that you don't get the timeliness bonus.
 
-We will not accept submmissions past the second deadline.
+We will not accept submissions past the second deadline.
 
 You are responsible to make sure you have the correct score for your assignments prior to the due date. This is specially important if you are working with a programming partner.
 
