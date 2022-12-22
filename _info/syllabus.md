@@ -16,9 +16,10 @@ You must contact the instructor for clarification if you receive information fro
 * **Lecture**: {{ site.lecture_times}}, {{ site.lecture_location}} ATTENDANCE HIGHLY RECOMMENDED
 * **TAs**: {{ site.tas}}
 * **ULAs**: {{site.ulas}}
-* **Lab** (50 minute closed lab sections), {{ site.lab_times}}  If you have a section conflict you may informally switch your section time with another student and consistently attend the new time. If you are working with a pair partner, you may attend any section that works for both of you. No need to email the instructor. Section attendance is highly recommended because that's the time when LAs and TAs are available to help you. There is an expectation that you start working on each lab/programmming assignment during sections and use office hours as extra help. 
+* **Lab** (50 minute closed lab sections), {{ site.lab_times}}  
 
-Please check Gauchospace for staff office hours and Zoom meeting links for lecture, discussion, and office hours.
+If you have a section conflict you may informally switch your section time with another student and consistently attend the new time. If you are working with a pair partner, you may attend any section that works for both of you. No need to email the instructor. Section attendance is highly recommended because that's the time when LAs and TAs are available to help you. There is an expectation that you start working on each lab/programmming assignment during sections and use office hours as extra help. 
+
 
 # Resources
 
@@ -77,6 +78,12 @@ Note: If purchasing the book imposes a financial hardship that you cannot bear, 
 
 * Final Exam: 35% 
 
+* To earn a grade of A, you must have an A average overall, and an A- on the final exam.
+* To earn a grade of A-, you must have at least an A- average overall, and at least a B- on the final exam.
+* To earn a grade of B+, you must have at least an B+ average overall, and at least a C+ on the final exam.
+* To earn a grade of B, you must have at least an B+ average overall, and at least a C on the final exam.
+* To earn a grade of B-, you must have at least an B- average overall, and at least a C- on the final exam.
+* To earn a grade of C, C-, D+, D or D- you need only to have that letter grade average overall (no additional criteria apply).
 
 ## Timeliness on assignments
 
