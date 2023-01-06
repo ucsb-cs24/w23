@@ -21,7 +21,7 @@ ready: true
 
 ## Course instructor: Diba Mirza
 
-* Email: Please use Piazza rather than email for course related communication.  You can send private messages on Piazza to either the entire course staff or directly to me. If you must email me using my email address (diba@ucsb.edu), please put `CS16` in the subject line, and know that there may be a delay in the response.
+* Email: Please use Piazza rather than email for course related communication.  You can send private messages on Piazza to either the entire course staff or directly to me. If you must email me using my email address (diba@ucsb.edu), please put `CS24` in the subject line, and know that there may be a delay in the response.
 
 
 ## Course TAs
