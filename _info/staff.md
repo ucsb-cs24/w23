@@ -81,6 +81,12 @@ If you have any questions about coursework or if you need help in programming in
 <pre>
 Office Hours: M 2PM - 3PM (Remote)
 </pre>
+
+## Tyler Ekaireb, TA
+
+<img src="../staff/CS24-W23-Tyler-E.jpg" alt="Tyler" width="150px" style="float: left; margin: 5px 10px 10px 10px;">
+
+Hello! My name is Tyler, and I'm a CS Master's student in the combined B.S./M.S. program. I received my B.S. in Computer Engineering here at UC Santa Barbara. I'm a student researcher in the RACELab under Professors Chandra Krintz and Rich Wolski, where I've worked on platforms for smart agriculture, custom operating systems, and distributed runtimes. In my free time, I enjoy hiking and reading (mostly science fiction and fantasy novels, history, and economics). I look forward to meeting you all this quarter!
  
 
 ## Rachel Jiang, LA
