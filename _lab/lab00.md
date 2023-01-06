@@ -3,8 +3,8 @@ layout: lab
 num: lab00
 ready: true
 desc: "Getting started"
-assigned: 2022-03-31 15:00:00.00-8
-due: 2022-04-04 23:59:00.00-8
+assigned: 2023-1-12 9:00:00.00-8
+due: 2023-01-18 23:59:00.00-8
 ---
 
 
@@ -39,7 +39,7 @@ To join this organization, you need to do three things.
 
 2. If you don't already have your @umail.ucsb.edu email address associated with your github.com account. go to "settings", add that email, and confirm that email address.
 
-3. Visit our [Github Sign Up Tool: https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course ({{site.org.githublinker}}), and click the "join course button".   That will automatically send you an invitation to join the course organization on github. 
+3. Visit our [Github Sign Up Tool: https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find the {{site.class_org.githublinker}} course, and click the "join course button".   That will automatically send you an invitation to join the course organization on github. 
 
 4. Accept the invitation that appears in your browser (from step 3) or log into your account on [www.github.com](https://github.com/) to accept the invitation.
 
@@ -236,6 +236,8 @@ Congratulations on completing the workflow for CS24 programming assignments usin
 
 # Find a partner for lab01
 
+Please read the information below. Then, use the dedicated Piazza thread called [Search for Teammates](https://piazza.com/class/lbxy717ytm12hy/post/5) to find a partner for the next lab. Refrain from creating new threads to avoid clutter on Piazza. You can also try to find a partner by connecting with students in your section on Thursday.
+
 ## About pair programming in the real world
 
 *Note: this is also in the syllabus!*
@@ -259,10 +261,5 @@ For all labs, you MUST
 * add your partner on Gradescope when submitting your work EACH TIME you submit your file(s). After uploading your file(s) on Gradescope, there is a “Group Members” link at the bottom (or “Add Group Member” under “Groups”) where you can select the partner you are working with. Whoever uploaded the submission must make sure your partner is part of your Group. Click on “Group Members” -> “Add Member” and select your partner from the list.
 * write both your and your partner's names and PERM numbers on each file submitted to Gradescope.
 
-## Fill out the partner assignment form for lab01
 
-Please fill out [this partner assignment form](https://forms.gle/mG63Ja34CTZWjzZT9) before you begin working on lab01.
 
-* If you already have a partner, then please fill out this form now.
-* If you don't have a partner, and you want to be assigned one, then please fill out this form now. The TAs will assign you a partner based on some info about yourself.
-* If you don't have a partner, and you want to search for one, then please use the dedicated Piazza thread called [Search for Teammates](https://piazza.com/class/l142oiw36ef1gh?cid=5) (this will help us avoid clutter on Piazza). After you find a partner, fill out this form.

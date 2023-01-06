@@ -78,6 +78,7 @@ Note: If purchasing the book imposes a financial hardship that you cannot bear, 
 
 * Final Exam: 35% 
 
+## Grading policy 
 * To earn a grade of A, you must have an A average overall, and an A- on the final exam.
 * To earn a grade of A-, you must have at least an A- average overall, and at least a B- on the final exam.
 * To earn a grade of B+, you must have at least an B+ average overall, and at least a C+ on the final exam.
