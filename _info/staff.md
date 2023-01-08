@@ -71,15 +71,14 @@ Office Hours: R 10AM - 11AM (remote)
 </pre>
 
 
-## Vinothini Gunasekaran, TA
+## Samridhi Maheshwari, TA
 
-<img src="../staff/CS16-F21-Vinothini-G.JPG" alt="Vino" width="150px" style="float: left; margin: 5px 10px 10px 10px;">
+<img src="../staff/CS24-W23-Samridhi-M.jpg" alt="Samridhi" width="150px" style="float: left; margin: 5px 10px 10px 10px;">
 
-Hello everyone! My name is Vinothini, you can call me Vino. I'm a second year MS student. Before joining Master's program at UCSB, I was working as a software developer in a cloud based software company for 4+ years and I interned at Amazon in this summer. Currently, I'm working in MOMENT Lab with Prof.Elizabeth Belding.
+Hi Everyone! I'm a second year master's student in CS at UCSB. My pronouns are she/her. A bit about me - I completed my Bachelor's in Computer Engineering in 2019. Post undergrad, I was working as an Android Engineer at PhonePe - a Fintech company in India. Currently, my area of interest is in distributed systems and cloud computing, and I'm working with Professors Chandra Krintz & Rich Wolski in RACE Lab. Please don't hesitate to ask me any questions through Email or Piazza. Looking forward to working with you all!
 
-If you have any questions about coursework or if you need help in programming in general, don't hesitate to reach me out via Piazza or Email. I would be happy to help you along.
 <pre>
-Office Hours: M 2PM - 3PM (Remote)
+Office Hours: M 2PM - 4PM (Remote), W 2PM - 3PM (Remote)
 </pre>
 
 ## Tyler Ekaireb, TA
