@@ -1,7 +1,7 @@
 ---
 num: "lect02"
 desc: "Linked Lists (non-OOP style)"
-ready: false
+ready: true
 pdfurl: /lectures/CS24_Lecture2.pdf
 annotatedpdfurl: /lectures/CS24_Lecture2_ann.pdf
 annotatedready: false
