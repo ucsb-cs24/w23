@@ -29,11 +29,10 @@ ready: true
 * Contact via Piazza.
 
 ## Learning Assistants (LAs)
-In addition to the instructor and TA, there will be some undergraduate Learning Assistants (LAs) in the course who are available to assist you during your scheduled lab sections (also called closed labs) and by holding additional help hours outside of sections (also called open-labs). The closed-labs are only available to students registered for that lab section on GOLD. The open-labs are available to all students registered in the course (similar to office hours).
+* {{site.ulas}}
 
-## Learning Assistants in training (LAs in training)
+The undergraduate Learning Assistants (LAs) in the course are available to assist you during your scheduled lab sections (also called closed labs) and by holding additional help hours outside of sections (also called open-labs, similar to office hours).
 
-There may also be a few LAs in training, students in course numbered CMPSC 100.  These students will be shadowing the instructor, TAs, and LAs during the first five weeks of the course to learn about teaching CS.  During the first five weeks of the course, they are not permitted to help (it is a union violation), only observe.  Please make them welcome, and respect their boundaries.  Starting in week 6, they will start getting paid, and will start helping with the course.
 
 # CS 24 Staff Profiles
 
@@ -61,6 +60,7 @@ Hi everyone, my name is Kaiwen Li. I am a first year MS student under BS/MS prog
 Hi Everyone! I'm a second year master's student in CS at UCSB. My pronouns are she/her. A bit about me - I completed my Bachelor's in Computer Engineering in 2019. Post undergrad, I was working as an Android Engineer at PhonePe - a Fintech company in India. Currently, my area of interest is in distributed systems and cloud computing, and I'm working with Professors Chandra Krintz & Rich Wolski in RACE Lab. Please don't hesitate to ask me any questions through Email or Piazza. Looking forward to working with you all!
 
 <br>
+
 ## Tyler Ekaireb, TA
 
 <img src="../staff/CS24-W23-Tyler-E.jpg" alt="Tyler" width="150px" style="float: left; margin: 5px 10px 10px 10px;">
