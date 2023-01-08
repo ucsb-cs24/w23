@@ -21,7 +21,7 @@ ready: true
 
 ## Course instructor: Diba Mirza
 
-* Email: Please use Piazza rather than email for course related communication.  You can send private messages on Piazza to either the entire course staff or directly to me. If you must email me using my email address (diba@ucsb.edu), please put `CS16` in the subject line, and know that there may be a delay in the response.
+* Email: Please use Piazza rather than email for course related communication.  You can send private messages on Piazza to either the entire course staff or directly to me. If you must email me using my email address (diba@ucsb.edu), please put `CS24` in the subject line, and know that there may be a delay in the response.
 
 
 ## Course TAs
@@ -81,6 +81,12 @@ If you have any questions about coursework or if you need help in programming in
 <pre>
 Office Hours: M 2PM - 3PM (Remote)
 </pre>
+
+## Tyler Ekaireb, TA
+
+<img src="../staff/CS24-W23-Tyler-E.jpg" alt="Tyler" width="150px" style="float: left; margin: 5px 10px 10px 10px;">
+
+Hello! My name is Tyler, and I'm a CS Master's student in the combined B.S./M.S. program. I received my B.S. in Computer Engineering here at UC Santa Barbara. I'm a student researcher in the RACELab under Professors Chandra Krintz and Rich Wolski, where I've worked on platforms for smart agriculture, custom operating systems, and distributed runtimes. In my free time, I enjoy hiking and reading (mostly science fiction and fantasy novels, history, and economics). I look forward to meeting you all this quarter!
  
 
 ## Rachel Jiang, LA
