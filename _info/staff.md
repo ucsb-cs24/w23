@@ -25,7 +25,7 @@ ready: true
 
 
 ## Course TAs
-* {{site.ta_names}}
+* {{site.tas}}
 * Contact via Piazza.
 
 ## Learning Assistants (LAs)
