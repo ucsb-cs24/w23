@@ -68,7 +68,7 @@ Hi Everyone! I'm a second year master's student in CS at UCSB. My pronouns are s
 Hello! My name is Tyler, and I'm a CS Master's student in the combined B.S./M.S. program. I received my B.S. in Computer Engineering here at UC Santa Barbara. I'm a student researcher in the RACELab under Professors Chandra Krintz and Rich Wolski, where I've worked on platforms for smart agriculture, custom operating systems, and distributed runtimes. In my free time, I enjoy hiking and reading (mostly science fiction and fantasy novels, history, and economics). I look forward to meeting you all this quarter!
  
 ## Huanhua Xu, TA
-
+<img src="../staff/CS24-W23-Huanhua-X.jpg" alt="Huanhua" width="150px" style="float: left; margin: 5px 10px 10px 10px;">
 Hi everyone! My name is Huanhua, and I'm a first year computer science MS student. My research interest is AR/VR, and my personal interest is playing video games. Don't hestitate if you have any questions about CS24. I'm looking forward to meeting you all.
 
 ## Rachel Jiang, LA
