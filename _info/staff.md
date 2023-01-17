@@ -80,3 +80,9 @@ Hi everyone! I'm Rachel, a sophomore at UCSB studying Computer Science and the c
 <img src="../staff/CS16-zackGlazewski.jpg" alt="Zack" width="150px" style="float: left; margin: 5px 10px 10px 10px;">
 
 Hello everyone! My name is Zack Glazewski and I'm a 3rd year CS Major. I feel very excited to help you all not only learn, but enjoy the process along the way. Some more information about me: I love cats (I have a cat named Link who is bascially my child), playing piano, and developing my own games. I'm always happy to help, so please don't hesitate if you have any questions. I look forward to meeting you all!
+
+## Bhavye Jain, TA
+
+<img src="../staff/CS24-W23-Bhavye-J.jpg" alt="Bhavye" width="150px" style="float: left; margin: 5px 10px 10px 10px;">
+
+Hi Everyone! I'm Bhavye Jain, a first year master's student at UCSB with major is CS. I got my bachelor's degree in CS&E in 2021 and subsequently, I worked at Microsoft India for over a year. I love playing the guitar and making music with a healthy dose of coffee. My areas of interest include SDNs, embedded systems, distributed computing. Please feel free to ask any questions through Email or Piazza. I look forward to solving some interesting problems with you!
