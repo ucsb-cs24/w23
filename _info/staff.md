@@ -10,7 +10,7 @@ ready: true
 
 # Section and Office Hours
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMijdjnPJ8ctV0IeVPTHKJKz5QIZDQzBkE2J3MvInYRlZ2BISjtG6WH6rWEqlDwiNI17-sDOk7XvEX/pubhtml?gid=0&single=true"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_c7788493d2e424992c5a2393def31662bb2ccc39ccd03e51da61510f965f71e3%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode=WEEK&showTitle=0" style="border: 0" frameborder="0" scrolling="no"></iframe>
 
 # Course Staff<a name="staff"></a>
 
