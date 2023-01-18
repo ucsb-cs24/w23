@@ -18,3 +18,6 @@ Code that we'll be working with
 Last lecture, we talked about how to debug using print statements
 Today, I'll demo two new debugging tools: gdb and valgrind.
 We'll do some exploration with these tools and talk about how a combination of drawing memory diagrams and gdb can help us find bugs in code.
+
+* [GDB cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
+* [Valgrind quick start guide](https://valgrind.org/docs/manual/quick-start.html)
