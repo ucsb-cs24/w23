@@ -10,6 +10,9 @@ due: 2023-02-02 23:59:00.00-8
 # Collaboration policy 
 * This lab must be completed individually
 
+# Please read this before you start the lab
+This lab is designed to run in csil. If you run it on your laptop, it may generate errors due to different version of python. Please make sure you have access to csil. Please contact a TA IMMEDIATELY if you don't have access to your csil machine.
+
 
 # Academic Honesty 
 * All work submitted for this lab should be your own. Do not use code posted on the internet. If you are using any hints from a previous offering of this course that was posted publicly by a CS24 instructor, you must cite your source.
