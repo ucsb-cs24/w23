@@ -155,7 +155,7 @@ First, we place the window starting at index 0, ```4 2 54``` will be inside the 
 
 Secondly, we move the window one unit to the right. ```2 54 1``` will be inside the window. The moving average for index 1 is (2 + 54 + 1)/3 = 19.
 
-By doing the previous step recursively, we can finally get our smoothed vector: ```20 19 26 12 23```.
+By doing the previous step iteratively, we can finally get our smoothed vector: ```20 19 26 12 23```.
 
 In ```dataManipulationFuncs.cppp``` there is a function with the declaration:
 
