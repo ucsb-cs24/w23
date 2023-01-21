@@ -9,7 +9,7 @@ lecture_date: 2023-01-11
 ---
 
 # Code from lecture
-[{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
+We worked through the solutions to the CS16 final exam: [CS16 final exam solutions](https://github.com/ucsb-cs24-w23/diba-cs16-final-solutions)
 
 # Topics
 
