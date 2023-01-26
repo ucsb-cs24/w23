@@ -4,7 +4,7 @@ num: lab02
 ready: true
 desc: "Getting started"
 assigned: 2023-1-26 9:00:00.00-8
-due: 2023-02-02 23:59:00.00-8
+due: 2023-02-08 23:59:00.00-8
 ---
 
 # Pair programming for this lab
