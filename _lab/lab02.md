@@ -7,8 +7,14 @@ assigned: 2023-1-26 9:00:00.00-8
 due: 2023-02-02 23:59:00.00-8
 ---
 
-# Collaboration policy 
-* This lab must be completed individually
+# Pair programming for this lab
+
+This lab may be done solo or in pairs. Before you begin working on the lab, please decide whether you will work solo or with a partner. If you decide to work with a partner, there are a few requirements you must follow:
+* You and your partner must agree to work together outside of the lab section in case you do not finish the lab during your lab section. You are responsible for exchanging contact information in case you need to reach your partner.
+* If you choose to work with a partner for a future lab where pair programming is allowed, then you must choose a partner you have not worked with before.
+* You MUST add your partner on Gradescope when submitting your work EACH TIME you submit your file(s). After uploading your file(s) on Gradescope, there is a “Group Members” link at the bottom (or “Add Group Member” under “Groups”) where you can select the partner you are working with. Whoever uploaded the submission must make sure your partner is part of your Group. Click on “Group Members” -> “Add Member” and select your partner from the list.
+* You must write your Name(s) and Perm number on each file submitted to Gradescope.
+Once you and your partner are in agreement, choose an initial driver and navigator, and have the driver log into their account.
 
 # Please read this before you start the lab
 This lab is designed to run in csil. If you run it on your laptop, it may generate errors due to different version of python. Please make sure you have access to csil. Please contact a TA IMMEDIATELY if you don't have access to your csil machine.
@@ -39,7 +45,7 @@ We request that you DO NOT ask the staff to debug your code for you. They have b
 
 The starter code is in this repo: 
 
-* <https://github.com/{{site.github_org}}/STARTER-{{page.num}}>
+* <https://github.com/{{site.class_org.name}}/STARTER-{{page.num}}>
 
 
 Previous labs contain instruction for the process of:
@@ -107,13 +113,14 @@ Finally, your function should also check for errors with the file opening proces
 This step involves getting experience with matplotlib for c++, which is a useful library to produce plots of data. 
 
 Inside ```graphingTool.cpp``` you will find a function with the following declaration:
-```void scatterPlot(
-    const vector<double>& x, 
-    const vector<double>& y, 
-    const string xlabel, 
-    const string ylabel, 
-    const string title, 
-    const string color);
+```
+void scatterPlot(
+const vector<double>& x, 
+const vector<double>& y, 
+const string xlabel, 
+const string ylabel, 
+const string title, 
+const string color);
 ```
 
 Your job is to implement this function to correctly produce a scatter plot using any arguments that may be passed in. Here is a more detailed explanation of each parameter:
