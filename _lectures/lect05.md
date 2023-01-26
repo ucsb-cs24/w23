@@ -4,7 +4,7 @@ desc: "C++ Classes: The Big Three  "
 ready: true
 pdfurl: /lectures/CS24_Lecture5.pdf
 annotatedpdfurl: /lectures/CS24_Lecture5_ann.pdf
-annotatedready: false 
+annotatedready: true 
 lecture_date: 2023-01-25
 ---
 
