@@ -2,7 +2,7 @@
 layout: lab
 num: lab02
 ready: true
-desc: "Getting started"
+desc: "Visualizing Climate Change Data"
 assigned: 2023-1-26 9:00:00.00-8
 due: 2023-02-08 23:59:00.00-8
 ---
