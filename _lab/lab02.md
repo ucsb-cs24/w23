@@ -173,6 +173,8 @@ vector<vector<double>> smoothData(vector<vector<double>>& rawData, size_t window
 ```
 
 You will also notice a helper function in the same file called ```getAvgNextValues```. This function should be called in smoothData to find the values of the new data points. Note, just like in ```filterData```, you should *not* alter the data in the original argument, but instead create and populate a new vector structure. 
+	
+Looking at your smoothed data, you should now clearly see a spike in temperature (i.e., rapid decrease in d18O) around 55 ma. This event is known as the PalaeoceneEocene Thermal Maximum (PETM), during which deep-sea temperatures rose 5 to 6 degree Celsius in fewer than 10,000 years! The fitered plots let you zoom in further to investigate the variations between 53 ma and 57 ma.
     
 ## Step 4: Checking your work before submitting
     
