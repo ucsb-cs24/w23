@@ -91,6 +91,7 @@ You will find that all the data is given in csv (comma separated values) format,
 Your Task:
 
 When working with large amounts of data, it is often useful to store it in a data structure such as a vector. 
+In this case, you are required to parse the data into a vector of size 3, whose each element stores each column of the data as another vector.
 
 In ```dataManipulationFuncs.cpp``` there is a function with the declaration:
 ``` vector<vector<double>> parseData(const string pathToFile, size_t numCol); ```
@@ -102,11 +103,11 @@ It takes in two arguments:
 - ```size_t numCol```: The number of columns stored by the data. 
 
 It outputs:
-- ```vector<vector<double>>```: This structure which is returned should be a vector of all the columns, where each column is also represented as a vector. 
+- ```vector<vector<double>>```: This structure which is returned should be a vector of all the **data columns**, where each column is also represented as a vector. 
 
-Notice there are some data entries that are missing for some rows. When parsing the data, if a row is missing data from any column, do not include it in the final data structure. 
+Notice there are some data entries that are missing for some rows. When parsing the data, if a row is missing data from any column, you should skip including the **entire row** from your data structure.
 
-Finally, your function should also check for errors with the file opening process. 
+Finally, notice that the starter code for that function checks for errors with the file opening process. 
 
 ### Step 3b: Plotting
 
