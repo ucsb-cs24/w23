@@ -219,9 +219,9 @@ When you are finished, you should be able to type ```make``` and then there will
     
 Please note that we will not grade your image. The images are only for you to verify your solutions.
 	
-	
-**Looking at your smoothed data, you should now clearly see a spike in temperature (i.e., rapid decrease in d18O) around 55 ma. This event is known as the PalaeoceneEocene Thermal Maximum (PETM), during which deep-sea temperatures rose 5 to 6 degree Celsius in fewer than 10,000 years! The fitered plots let you zoom in further to investigate the variations between 53 ma and 57 ma. We have asked you to submit scatter plots for the filtered data. But if you used a line plot, you should be able to see the PETM event more clearly!**
-
+---	
+Looking at your smoothed data, you should now clearly see a spike in temperature (i.e., rapid decrease in d18O) around 55 ma. This event is known as the **Palaeocene Eocene Thermal Maximum (PETM)**, during which deep-sea temperatures rose 5 to 6 degree Celsius in fewer than 10,000 years! The fitered plots let you zoom in further to investigate the variations between 53 ma and 57 ma. We have asked you to submit scatter plots for the filtered data. But if you used a line plot, you should be able to see the PETM event more clearly!
+---
 ## Step 5: Turn in your code on Gradescope
 
 Submit all the .cpp and .h files to Lab02 assignment on Gradescope via your github repo. Then visit Gradescope and check that you have a correct score.
