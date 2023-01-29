@@ -144,8 +144,8 @@ A simple example for using this function is also provided below:
  plt::figure();
  plt::scatter(x, y, 1.0, {{"color", "red"}});
 ```
-Note that the third argument to scatter is a C++ map data structure which is similar to Python dictionaries. 
-Map is used to store key-value pairs and in general can efficiently search on the stored keys.
+Note that the third argument to scatter is a C++ map data structure which is similar to Python dictionaries with the difference that map maintains ordering of its elements. 
+Map is used to store key-value pairs and in general can perform search efficiently.
 To learn more about map, see the documentation here: <https://cplusplus.com/reference/map/>
 Example code is available here: <https://cplusplus.com/reference/map/map/at/>, <https://cplusplus.com/reference/map/map/find/>
 
