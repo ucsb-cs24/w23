@@ -113,8 +113,7 @@ Finally, notice that the starter code for that function checks for errors with t
 
 This step involves getting experience with matplotlib for c++, which is a useful library to produce plots of data. 
 A good place to get started is the documentation for the matplotlib library: <https://github.com/lava/matplotlib-cpp>
-Go over the README file in the above link to familiarize yourself with some basic usage.
-
+Go over the README file to familiarize yourself with some of the basics like creating a new figure, making a simple line plot with plt::plot() function, and changing the color of the plot.
 Inside ```graphingTool.cpp``` you will find a function with the following declaration:
 ```
 void scatterPlot(
@@ -135,7 +134,21 @@ Your job is to implement this function to correctly produce a scatter plot using
 - const string color: color of each point on the scatter plot. (i.e. "blue" or "red")
 
 Your implementation should save the resultant image into the CURRENT directory in the format: {title}.png
-    
+	
+Learning goals: The main learning goal for this problem is to learn about a new plotting function (plt::scatter()) and how to use a new data structure (std::map) by reading the relevant documentation.  	
+
+Your scatterPlot() function will use plt::scatter() to create scatter plots and additionally saves the plot as as an image (.png) file. plt::scatter() is similar to plt::plot(). To learn more about the scatter() function here: <https://github.com/lava/matplotlib-cpp/blob/master/matplotlibcpp.h#L993>
+
+A simple example for using this function is also provided below:
+```
+ plt::figure();
+ plt::scatter(x, y, 1.0, {{"color", "red"}});
+```
+Note that the third argument to scatter is a C++ map data structure which is similar to Python dictionaries. 
+Map is used to store key-value pairs and in general can efficiently search on the stored keys.
+To learn more about map, see the documentation here: <https://cplusplus.com/reference/map/>
+Example code is available here: <https://cplusplus.com/reference/map/map/at/>, <https://cplusplus.com/reference/map/map/find/>
+
 
 ### Step 3c: Filtering
 
@@ -174,11 +187,12 @@ vector<vector<double>> smoothData(vector<vector<double>>& rawData, size_t window
 
 You will also notice a helper function in the same file called ```getAvgNextValues```. This function should be called in smoothData to find the values of the new data points. Note, just like in ```filterData```, you should *not* alter the data in the original argument, but instead create and populate a new vector structure. 
 	
-Looking at your smoothed data, you should now clearly see a spike in temperature (i.e., rapid decrease in d18O) around 55 ma. This event is known as the PalaeoceneEocene Thermal Maximum (PETM), during which deep-sea temperatures rose 5 to 6 degree Celsius in fewer than 10,000 years! The fitered plots let you zoom in further to investigate the variations between 53 ma and 57 ma.
+
     
-## Step 4: Checking your work before submitting
+## Step 4: What are the plots saying?
     
 When you are finished, you should be able to type ```make``` and then there will be 6 images generated under your current directory. You can verify your functions by comparing the images.
+	
 
 ### 1. d18O vs Age (ma)
 
@@ -204,6 +218,9 @@ When you are finished, you should be able to type ```make``` and then there will
 
     
 Please note that we will not grade your image. The images are only for you to verify your solutions.
+	
+	
+**Looking at your smoothed data, you should now clearly see a spike in temperature (i.e., rapid decrease in d18O) around 55 ma. This event is known as the PalaeoceneEocene Thermal Maximum (PETM), during which deep-sea temperatures rose 5 to 6 degree Celsius in fewer than 10,000 years! The fitered plots let you zoom in further to investigate the variations between 53 ma and 57 ma. We have asked you to submit scatter plots for the filtered data. But if you used a line plot, you should be able to see the PETM event more clearly!**
 
 ## Step 5: Turn in your code on Gradescope
 
