@@ -107,11 +107,13 @@ It outputs:
 
 Notice there are some data entries that are missing for some rows. When parsing the data, if a row is missing data from any column, you should skip including the **entire row** from your data structure.
 
-Finally, notice that the starter code for that function checks for errors with the file opening process. 
+Finally, notice that the starter code for that function checks for errors with the file opening process. You should remember to close the file after reading all the data.
 
 ### Step 3b: Plotting
 
 This step involves getting experience with matplotlib for c++, which is a useful library to produce plots of data. 
+A good place to get started is the documentation for the matplotlib library: <https://github.com/lava/matplotlib-cpp>
+Go over the README file in the above link to familiarize yourself with some basic usage.
 
 Inside ```graphingTool.cpp``` you will find a function with the following declaration:
 ```
@@ -134,7 +136,6 @@ Your job is to implement this function to correctly produce a scatter plot using
 
 Your implementation should save the resultant image into the CURRENT directory in the format: {title}.png
     
-matplotlib-cpp ref: https://github.com/lava/matplotlib-cpp
 
 ### Step 3c: Filtering
 
