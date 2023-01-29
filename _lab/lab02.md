@@ -77,7 +77,7 @@ Larger values for $\delta$<sup>18</sup>O indicate lower temperatures
 
 Smaller values for $\delta$<sup>13</sup>C indicate higher temperatures. 
 
-For more detailed information regarding this assignment, feel free to visit: http://www.discoveringcs.net/7_data_analysis/project7.1.pdf
+For more detailed information regarding this assignment, feel free to visit: <http://www.discoveringcs.net/7_data_analysis/project7.1.pdf>
 
 
 ### Step 3a: CSV Parsing
