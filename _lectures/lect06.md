@@ -1,7 +1,7 @@
 ---
 num: "lect06"
-desc: "Linked Lists (with classes) and Rule of Three  "
-ready: false
+desc: "Integrated debugging with gdb and VS Code, Rule of Three (contd), and Linked Lists (with classes) and   "
+ready: true
 pdfurl: /lectures/CS24_Lecture6.pdf
 annotatedpdfurl: /lectures/CS24_Lecture6_ann.pdf
 annotatedready: false 
@@ -12,8 +12,13 @@ lecture_date: 2023-01-30
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
 ## Lesson plan
-* Revisit the big four for linked list: C++ provides a default constructor, destructor, copy constructor, copy assignment operator for any class that doesn't have one explicitly defined.
+* We'll contiue our discussion of the rule of three for the Complex class
 
+* I'll demo how to setup the debugger in Visual Studio code using gdb at the backend - that will allow you to have a visual interface when debugging
+
+* We'll review how to implement Linked Lists with classes.
+
+* Revisit the big three for linked list: C++ provides a default constructor, destructor, copy constructor, copy assignment operator for any class that doesn't have one explicitly defined.
 
 
 
