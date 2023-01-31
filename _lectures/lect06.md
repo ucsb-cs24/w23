@@ -4,7 +4,7 @@ desc: "Integrated debugging with gdb and VS Code, Rule of Three (contd), and Lin
 ready: true
 pdfurl: /lectures/CS24_Lecture6.pdf
 annotatedpdfurl: /lectures/CS24_Lecture6_ann.pdf
-annotatedready: false 
+annotatedready: true 
 lecture_date: 2023-01-30
 ---
 
