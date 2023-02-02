@@ -3,22 +3,13 @@ layout: lab
 num: lab03
 ready: true
 desc: "Implementing a linked list- OOP style"
-assigned: 2022-04-20 15:00:00.00-8
-due: 2022-04-27 23:59:00.00-8
+assigned: 2023-02-02 9:00:00.00-8
+due: 2023-02-09 23:59:00.00-8
 ---
 
-## Announcing your collaboration choice 
+## Collaboration policy
 This lab may be done with a partner or solo. 
-You can choose to work with the same partner as lab02, form a new partnership, or ask the TAs to assign you a partner.
-However, you must fill out this form to announce your decision if you haven't already for lab03:
-<https://forms.gle/WHXNJmxqpaYTfXJv6>
 
-
-If you have identified a partner in your section who has also agreed to work with you or if you decide to work solo, you can begin working on the lab right after submitting the form.
-
-However, if you are requesting for the TAs to assign a partner to you, you must wait until your section time on Thursday to hear about the assignment.  Please respond to any communication from TAs or your partners quickly! Not responding to your partner by more than a day will lead to a 30% deduction in your grade.
-
-If you missed the deadline, you must still fill the form before you begin working on this lab to get credit for the lab.
 
 # Goals for this lab
 
@@ -355,11 +346,4 @@ Each student must accomplish the following to earn full credit for this lab:
 * [100 points] `intlist.cpp` is saved, it has your name(s) in a comment at the top, it compiles and executes properly, and has been submitted with a score of 100/100 to the Gradescope system.
 
 
-## Fill out the partner assignment form for lab04
 
-Please fill out [this partner assignment form](https://forms.gle/YUs1EnBXvRp2onvt9) before you begin working on lab03.
-
-* If you already have a partner, then please fill out this form now.
-* If you don't have a partner, and you want to be assigned one, then please fill out this form now. The TAs will assign you a partner based on some info about yourself.
-* If you don't have a partner, and you want to search for one, then please use the dedicated Piazza thread called [Search for Teammates](https://piazza.com/class/l142oiw36ef1gh?cid=5) (this will help us avoid clutter on Piazza). After you find a partner, fill out this form.
-* If you wish to work alone, please still fill out this form to indicate your decision.
