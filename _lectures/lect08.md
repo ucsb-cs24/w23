@@ -1,5 +1,5 @@
 ---
-lecture_date: 2023-02-02
+lecture_date: 2023-02-06
 num: "lect08"
 desc: "Binary Search Trees - Part 2"
 ready: true
