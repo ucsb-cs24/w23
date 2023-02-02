@@ -26,7 +26,7 @@ Create a repo for this lab in our class organization and clone it to your local 
 
 The starter code is in this repo:
 
-* <https://github.com/{{site.class_org.name}}/{{page.num}}>
+* <https://github.com/{{site.class_org.name}}/STARTER-{{page.num}}>
 
 Please get the starter code in the same way as lab01. This is a great opportunity to practice working with git and GitHub!
 
