@@ -1,11 +1,11 @@
 ---
-lecture_date: 2023-02-08
-num: "lect09"
-desc: "BST (part 3) and midterm practice"
+lecture_date: 2023-02-13
+num: "lect10"
+desc: "Running time analysis - Part 1"
 ready: true
-pdfurl: /lectures/CS24_Lecture9.pdf
-annotatedpdfurl: /lectures/CS24_Lecture9_ann.pdf
-annotatedready: true	
+pdfurl: /lectures/CS24_Lecture10.pdf
+annotatedpdfurl: /lectures/CS24_Lecture10_ann.pdf
+annotatedready: false	
 ---
 # Code from lecture
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
