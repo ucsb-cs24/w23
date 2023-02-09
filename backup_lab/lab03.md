@@ -69,11 +69,18 @@ We will discuss these files in Step 3. But first some practice.
 You can go to the website, "www.cpp.sh", to get practice with linked structures. (Or any other online cpp shell)
 Type or copy/paste the simple program shown below (in bold) at the code area in cpp.sh (replacing the original sample code):
 
+```cpp
+struct Node {
+  int info;
+  Node *next;
+}
+```
+
 The structure, 'Node', you just created, incorporates a way for an object of its type to point to another object of the same type - it is a self-referential structure. The idea is to point the `next` field of a Node to another Node, or in other words, the `next` field of a Node stores the memory address of the next Node. In this way, we can build lists of Nodes, with each Node pointing to the next one. We also maintain a separate pointer that points to the first node in the list - often we call this pointer the "list" because it is the way we can access the list's elements.
 
 But before we do all that, let's just make a Node object, set its fields, and display its contents:
 
-```
+```cpp
 #include <iostream>
 
 struct Node {int info; Node *next;};
@@ -98,7 +105,7 @@ The Node named `item` stores a 9 as its information, and its next field (a.k.a. 
 
 Now, let's use the structure of a Node to build an actual linked list storing three integers. First, we will declare a pointer named `list` that points to the first node in the list (or null if the list is empty). We initialize this pointer to a dynamically allocated first node, using the C++ keyword new (which returns a pointer/memory address). The remaining steps will create two more nodes, store values in each node, and properly link them all together as a list.
 
-```
+```cpp
 #include <iostream>
 
 struct Node {int info; Node *next;};
@@ -145,7 +152,7 @@ The for loop continues as long as `n` is pointing to a node. At the end of each 
 
 As one more illustration, let's use a while loop to count the nodes in a list like this one. Make sure you understand the following loop too, in which the while loop condition is just the node pointer itself -- it becomes 0 at the end. ;-)
 
-```
+```cpp
 #include <iostream>
 
 struct Node {int info; Node *next;};
@@ -178,7 +185,7 @@ One big issue in the above program is memory leak.
 
 Since we dynamically allocated the memory for three nodes, we should free that memory before exiting the program and proceeding to Step 3. Also, according to convention, we set the list pointer to null - it is now an empty list:
 
-```
+```cpp
 #include <iostream>
 
 struct Node {int info; Node *next;};
@@ -356,4 +363,3 @@ Please fill out [this partner assignment form](https://forms.gle/YUs1EnBXvRp2onv
 * If you don't have a partner, and you want to be assigned one, then please fill out this form now. The TAs will assign you a partner based on some info about yourself.
 * If you don't have a partner, and you want to search for one, then please use the dedicated Piazza thread called [Search for Teammates](https://piazza.com/class/l142oiw36ef1gh?cid=5) (this will help us avoid clutter on Piazza). After you find a partner, fill out this form.
 * If you wish to work alone, please still fill out this form to indicate your decision.
-

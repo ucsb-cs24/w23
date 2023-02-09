@@ -89,7 +89,7 @@ Note: If purchasing the book imposes a financial hardship that you cannot bear, 
 ## Timeliness on assignments
 
 Each lab, programming assignment, zybook reading asssignment has two deadlines: (1) The "on-time" deadline which is the one published on the course calendar. Submitting by this deadline gets you a timeliness bonus of 1% (of the assignment score) 
-(2) The "late" deadline which is 3 days after the published deadline. You will not be penalized for submitting before this deadline but doing so would mean that you don't get the timeliness bonus.
+(2) The "late" deadline which is one week after the published deadline for zyBooks reading assignments, and 3 days after the published deadline for all other assignments. You will not be penalized for submitting before this deadline but doing so would mean that you don't get the timeliness bonus.
 
 We will not accept submissions past the second deadline.
 

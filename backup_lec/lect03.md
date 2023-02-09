@@ -1,26 +1,20 @@
 ---
 num: "lect03"
-lecture_date: 2022-04-04
-desc: "Git, Linked Lists contd."
+lecture_date: 2023-01-18
+desc: "Debugging (linked list errors) with gdb and valgrind"
 ready: true
 pdfurl: /lectures/CS24_Lecture3.pdf
 annotatedpdfurl: /lectures/CS24_Lecture3_ann.pdf
 annotatedready: true
 ---
 
-# Code from lecture
-
-[{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
-
 
 # Topics
 
-## Github intro
-* What is github? How and why we plan to use it in this class
-* What is a git repo?
-* Creating a github repo and using github's web interface to store your first program
+Code that we'll be working with
+* [CS16 final exam solutions (from last lecture)](https://github.com/ucsb-cs24-w23/diba-cs16-final-solutions)
+* [Buggy student code](https://github.com/ucsb-cs24-w23/buggy-cs16-final-demo)
 
-* Gentle intro to github: what is a repo, creating a repo,  cloning a repo to a local machine, syncing repos with git add, commit and push
-
-* Read the articles on [creating a github repo under an organization](https://ucsb-cs16.github.io/topics/github_com_create_private_repo_under_org/), [cloning your first repo](https://ucsb-cs56-pconrad.github.io/topics/git_cloning_your_first_repo/) and [git basic workflow](https://ucsb-cs56-pconrad.github.io/topics/git_basic_workflow/).  We will now put the concepts from all the articles that you have read so far into practice. You may need to refer back to these articles to complete the following steps.
-
+Last lecture, we talked about how to debug using print statements
+Today, I'll demo two new debugging tools: gdb and valgrind.
+We'll do some exploration with these tools and talk about how a combination of drawing memory diagrams and gdb can help us find bugs in code.
