@@ -184,7 +184,7 @@ BST:
   contains 128? N
   contains 17? N
   contains 512? Y
-  pre-order: 256 8 32 16 512
+  in-order: 8 16 32 256 512
 Empty BST:
   pre-order:
   in-order:
