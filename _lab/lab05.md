@@ -3,8 +3,8 @@ layout: lab
 num: lab05
 ready: false
 desc: "Generic Binary Search Tree"
-assigned: 2023-02-16 15:00:00.00-8
-due: 2023-02-23 23:59:00.00-8
+assigned: 2023-03-02 15:00:00.00-8
+due: 2023-03-09 23:59:00.00-8
 ---
 <div markdown="1">
 
