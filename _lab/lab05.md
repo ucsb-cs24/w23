@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab05
-ready: false
+ready: true
 desc: "Generic Binary Search Tree"
 assigned: 2023-03-02 15:00:00.00-8
 due: 2023-03-09 23:59:00.00-8
