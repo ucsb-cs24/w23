@@ -5,7 +5,7 @@ desc: "Stack ADT, C++ STL, templates, and interview practice"
 ready: true
 pdfurl: /lectures/CS24_Lecture12.pdf
 annotatedpdfurl: /lectures/CS24_Lecture12_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 The topics covered today are relevant for lab05 and lab06.
