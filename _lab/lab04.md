@@ -3,7 +3,7 @@ layout: lab
 num: lab04
 ready: true
 desc: "Binary Search Tree"
-assigned: 2023-02-09 15:00:00.00-8
+assigned: 2023-02-09 9:00:00.00-8
 due: 2023-02-16 23:59:00.00-8
 ---
 <div markdown="1">
