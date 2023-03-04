@@ -1,5 +1,5 @@
 ---
-lecture_date: 2023-02-1
+lecture_date: 2023-03-01
 num: "lect13"
 desc: "Interview Practice + Queue"
 ready: true
