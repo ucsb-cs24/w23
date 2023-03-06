@@ -1,7 +1,7 @@
 ---
 lecture_date: 2023-03-01
 num: "lect13"
-desc: "Interview Practice + Queue"
+desc: "Interview Practice"
 ready: true
 pdfurl: /lectures/CS24_Lecture13.pdf
 annotatedpdfurl: /lectures/CS24_Lecture13_ann.pdf
@@ -14,7 +14,7 @@ annotatedready: false
 
 
 ## Topics
-* Using the C++ STL stack container classes: stack and queue
+* Using the C++ STL stack container
 * Review of lab06 (applications of stacks)
 	* checking if paranthesis in an infix expression are balanced
 	* Evaluating fully paranthesized infix expressions
