@@ -17,5 +17,5 @@ Make a copy and work to complete the exercises in class
 
 ## Topics
 * Heap data structure and its applications
-* Using the C++ STL container classe: prority_queue
+* Using the C++ STL container classe: priority_queue
 * Implementing heap (lab07)
