@@ -21,15 +21,7 @@ This lab may be done with a partner
 
 ## Step by Step Instructions
 
-# Step 0: Surveys (1% extra credit of your overall grade)
-
-* (1% Extra credit): The following survey is to get your feedback on the CS24 curriculum. It is anonymous but its setup in a way that you can still get credit for filling it, at the end of the survey you are directed to a separate survey where you should enter your credentials.
-
-Link to survey:
-[https://ucsb.co1.qualtrics.com/jfe/form/SV_0PKZjij05RB0XgF](https://ucsb.co1.qualtrics.com/jfe/form/SV_0PKZjij05RB0XgF)
-
-* Although this is not towards the extra credit, a reminder to please fill out the course (ESCIs) for the instructor and TAs. Links should be available through Gauchospace. 
-
+ 
 ## Step 1: Get the starter code
 Use scp to copy the starter code from CSIL from the following directory:
 
@@ -62,3 +54,5 @@ Submit the files heap.cpp, heap.h, and Makefile to the assignment on Gradescope.
 Each student must accomplish the following to earn full credit for this lab:
 heap.cpp and heap.h are saved, with your name(s) in a comment at the top and other evidence of your work. Both of these files should compile and execute properly too.
 
+## Course evaluation
+Please fill out the course (ESCIs) for the instructor and TAs. Links should be available through Gauchospace.
