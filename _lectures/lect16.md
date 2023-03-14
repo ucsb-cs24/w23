@@ -5,7 +5,7 @@ desc: "Iterators, queues, more on set"
 ready: true
 pdfurl: /lectures/CS24_Lecture16.pdf
 annotatedpdfurl: /lectures/CS24_Lecture16_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 ## Code written in class
