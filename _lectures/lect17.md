@@ -14,4 +14,4 @@ annotatedready: false
 
 
 ## Topics
-* We'll use most of the data structures that we have learned so far to model graphs and implement a graph algorithm
+* We'll use almost all the data structures that we have learned so far to model graphs and implement a graph algorithm
