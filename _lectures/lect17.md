@@ -5,7 +5,7 @@ desc: "Graphs & application of data structures"
 ready: true
 pdfurl: /lectures/CS24_Lecture17.pdf
 annotatedpdfurl: /lectures/CS24_Lecture17_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 ## Code written in class
